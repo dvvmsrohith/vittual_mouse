@@ -26,7 +26,7 @@ The project uses OpenCV for video processing, MediaPipe for hand tracking, and P
 📂 Project Structure
 
 virtual-mouse/
-│
+|
 ├── virtual_mouse.py
 ├── requirements.txt
 └── README.md
@@ -94,7 +94,7 @@ This prevents the program from closing accidentally when a fist is detected for 
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/virtual-mouse.git
+git clone https://github.com/dvvmsrohith/vittual-mouse.git
 
 2. Open the Project
 
